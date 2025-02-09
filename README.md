@@ -3,6 +3,10 @@
   <!-- Big Font for "Hi, I’m @StrangeZzz 👾" -->
 <h1 align="center">Hi, I’m StrangeZzz 👾</h1>
 
+
+
+<a href="#"><img align="centre" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=+Gamer+🎮%0A;🤖+AI+/+ML+/+DL+Enthusiast+;%0A+Gen+AI+Developer+⚡;%0A🧙‍♂️+Code+Wizard+;%0A🥷+Neural+Network+Ninja+🤯;%0A⚛️+Quantum+Dreamer+🌌;%0A+Creative+Tech+Explorer+🎨&repeat=true&repeatDelay=1000" alt="Typing Animation" />
