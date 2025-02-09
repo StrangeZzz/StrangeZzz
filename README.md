@@ -1,13 +1,14 @@
 <div align="center">
 
   <!-- Big Font for "Hi, I’m @StrangeZzz 👾" -->
-  <h1 align="center">Hi, I’m StrangeZzz 👾</h1>
+<h1 align="center">Hi, I’m StrangeZzz 👾</h1>
 
-  <!-- Typing Animation -->
-  <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=+Gamer+🎮;🤖+AI+/+ML+/+DL+Enthusiast+;+Gen+AI+Developer+⚡;🧙‍♂️+Code+Wizard+;🥷+Neural+Network+Ninja+🤯;⚛️+Quantum+Dreamer+🌌;+Creative+Tech+Explorer+🎨&repeat=true&repeatDelay=1000" alt="Typing Animation" />
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=+Gamer+🎮%0A;🤖+AI+/+ML+/+DL+Enthusiast+;%0A+Gen+AI+Developer+⚡;%0A🧙‍♂️+Code+Wizard+;%0A🥷+Neural+Network+Ninja+🤯;%0A⚛️+Quantum+Dreamer+🌌;%0A+Creative+Tech+Explorer+🎨&repeat=true&repeatDelay=1000" alt="Typing Animation" />
+</p>
 
-  </p>
+
 
   <!-- Introduction -->
   <p align="center">
