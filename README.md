@@ -156,7 +156,7 @@
 
   <!-- Footer -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=StrangeZzz&color=00FF00&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=StrangeZzz&color=336699&logoColor=white&style=flat-square">
   </p>
 
 </div>
