@@ -19,18 +19,8 @@
     I’m passionate about exploring the endless possibilities of <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Deep Learning</strong>.
   </p>
 
-  <!-- Divider -->
-  <img src="https://github.com/StrangeZzz/StrangeZzz/blob/main/assets/divider.gif?raw=true" alt="divider" width="100%">
 
-  <!-- What I'm Into -->
-<h2 align="center">🌟 What I’m Into</h2>
-<p align="center">
-  <strong>AI/ML/DL:</strong> Crafting intelligent systems that dream, adapt, and evolve. From neural networks that mimic the human brain to algorithms that predict the unpredictable, I build models that don’t just compute—they <em>think</em>. 🤖✨
-  <br><br>
-  <strong>Generative AI:</strong> Designing tools that breathe life into imagination. Whether it’s AI-generated art that paints emotions, music that composes itself, or stories that write their own endings, I create systems that inspire creativity and redefine what’s possible. 🎨🚀
-  <br><br>
-  <strong>Collaborative Projects:</strong> Innovation thrives in collaboration. I’m all about teaming up with visionaries, dreamers, and builders to turn bold ideas into reality. Let’s push boundaries, break barriers, and create something that leaves a mark on the future. 🌌💡
-</p>
+
 
   <!-- Divider -->
   <img src="https://github.com/StrangeZzz/StrangeZzz/blob/main/assets/divider.gif?raw=true" alt="divider" width="100%">
@@ -153,6 +143,16 @@
     <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" width="50px" alt="Discord" style="margin: 0; padding: 0;">
   </a>
 </p>
+
+<!-- github starts-->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=StrangeZzz&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=StrangeZzz&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeZzz&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=StrangeZzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
   <!-- Footer -->
   <p align="center">
