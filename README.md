@@ -152,12 +152,13 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=StrangeZzz&theme=neon&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeZzz&theme=neon&hide_border=true&background=00000000" alt="Streak Stats" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=StrangeZzz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
