@@ -1,7 +1,11 @@
 <div align="center">
 
   <!-- Big Font for "Hi, I’m @StrangeZzz 👾" -->
-<h1 align="center">Hi, I’m StrangeZzz 👾</h1>
+<h1 align="center">
+  Hi, I’m StrangeZzz 
+  <img src="https://raw.githubusercontent.com/StrangeZzz/StrangeZzz/main/typingcat.gif" width="30" />
+</h1>
+
 
 
 
